@@ -1,0 +1,6 @@
+{
+  "name": "Body Fitness Club | Daltonganj",
+  "description": "Premium modern gym and fitness club in Daltonganj, Jharkhand offering strength training, cardio, personal coaching, and functional fitness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
